@@ -4,6 +4,8 @@
 # Info
 **made by SquizyEliran#8023**
 
+the scoreboard for now only for QB
+
 you will see the scoreboard when you press DELETE you can change the key in the client.lua
 
 the scoreboard update every 5 sec you can change it in the server.lua
